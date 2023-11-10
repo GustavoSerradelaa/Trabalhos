@@ -1,0 +1,8 @@
+A Lei Geral de Proteção de Dados (LGPD) estabelece diretrizes para o tratamento de dados pessoais no Brasil. No contexto dos Data Centers, a LGPD impõe requisitos rigorosos para garantir a segurança e privacidade dos dados armazenados. Os Data Centers precisam adotar medidas técnicas e organizacionais para proteger as informações pessoais, além de permitir que os titulares exerçam seus direitos sobre esses dados. A adequação à LGPD é crucial para evitar sanções e garantir a confiança no armazenamento e processamento de dados.
+
+Exemplos de formatos:
+Proprietários: DOCX (Microsoft Word), PSD (Adobe Photoshop), XLSX (Microsoft Excel).
+Abertos: CSV (Comma-Separated Values), JSON (JavaScript Object Notation), XML (eXtensible Markup Language).
+
+Implicações relacionadas a dados públicos:
+Os Formatos Abertos tendem a ser mais acessíveis e interoperáveis, facilitando o compartilhamento de dados entre diferentes sistemas e organizações. Isso promove a transparência e a colaboração no uso de dados públicos E os Formatos Proprietários podem criar barreiras à acessibilidade e interoperabilidade, uma vez que exigem software específico para visualização e edição. Isso pode limitar a democratização do acesso aos dados públicos e gerar dependência de determinados fornecedores.
